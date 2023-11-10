@@ -28,7 +28,7 @@ const String HTML_WELCOME = "<h1>Welcome to your ESP32 Web Server!</h1>";
 
 // BASIC WIFI CONFIGURATION CONSTANTS
 // The SSID (Service Set IDentifier), in other words, the network's name
-const char *SSID = "Network 1";
+const char *SSID = "<your_unique_SSID_here>";
 // Password for the network
 // By default the ESP32 uses WPA / WPA2-Personal security, therefore the
 // the password MUST be between 8 and 63 ASCII characters
