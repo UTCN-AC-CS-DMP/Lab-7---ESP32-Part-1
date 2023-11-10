@@ -1,3 +1,14 @@
+/*
+ *** UTCN DMP LAB 7 ***
+ * SSD1306 OLED Panel Controller Demo App
+ * originally adapted from https://github.com/adafruit/Adafruit_SSD1306/blob/master/examples/ssd1306_128x32_i2c/ssd1306_128x32_i2c.ino
+ */
+
+/*
+ * HEADER FILES
+ * Include header files provided by Adafruit
+ * https://github.com/adafruit/Adafruit_SSD1306
+ */
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
